@@ -33,3 +33,4 @@ Nº de los Ejercicios PRG realizados
 | MARCO |      |      |      |      |      |             |      |      |      |
 | JORGE |      |      |      |      |      |             |      |      |      |
 | ROSANA |      |      |      |      |      |             |      |      |      |
+| DAVIDE |      |      |      |      |      |             |      |      |      |
