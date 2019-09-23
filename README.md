@@ -25,7 +25,7 @@ Nº de los Ejercicios PRG realizados
 | MARTA |      |      |      |      |      |             |      |      |      |
 | IREVERTE |      |      |      |      |      |             |      |      |      |
 | CRISTINA |      |      |      |      |      |             |      |      |      |
-| HERNAN |1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 15      |      |      |      |      |             |      |      |      |
+| HERNÁN |1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 15      |      |      |      |      |             |      |      |      |
 | DAVID |      |      |      |      |      |             |      |      |      |
 | ANGEL |1, 2, 3, 4, 5, 6, 7      |      |      |      |      |             |      |      |      |
 | MIGUEL |      |      |      |      |      |             |      |      |      |
