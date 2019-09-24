@@ -26,7 +26,7 @@ Nº de los Ejercicios PRG realizados
 | IREVERTE |      |      |      |      |      |             |      |      |      |
 | CRISTINA |      |      |      |      |      |             |      |      |      |
 | HERNÁN |11|      |      |      |      |             |      |      |      |
-| DAVID |      |      |      |      |      |             |      |      |      |
+| DAVID |1, 2, 3, 4, 5      |      |      |      |      |             |      |      |      |
 | ANGEL |1, 2, 3, 4, 5, 6, 7      |      |      |      |      |             |      |      |      |
 | MIGUEL |      |      |      |      |      |             |      |      |      |
 | CARLOS |      |      |      |      |      |             |      |      |      |
