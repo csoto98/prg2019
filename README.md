@@ -5,11 +5,11 @@ Nº de los Ejercicios PRG realizados
 
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
-| SERGIO    | 3     |      |      |      |      |             |      |      |      |
+| SERGIO    | 3    |      |      |      |      |             |      |      |      |
 | ALEXANDRA |9     |      |      |      |      |             |      |      |      |
 | ACAMPOS   |      |      |      |      |      |             |      |      |      |
 | CLAUDIA   |      |      |      |      |      |             |      |      |      |
-| ADONET    | 10    |      |      |      |      |             |      |      |      |
+| ADONET    | 10   |      |      |      |      |             |      |      |      |
 | AFORNER |      |      |      |      |      |             |      |      |      |
 | IVAN |      |      |      |      |      |             |      |      |      |
 | LUIS |      |      |      |      |      |             |      |      |      |
@@ -17,7 +17,7 @@ Nº de los Ejercicios PRG realizados
 | JOAN |      |      |      |      |      |             |      |      |      |
 | EMILIO |      |      |      |      |      |             |      |      |      |
 | ENRIQUE | 4    |      |      |      |      |             |      |      |      |
-| PATRICIA |      |      |      |      |      |             |      |      |      |
+| PATRICIA | 3   |      |      |      |      |             |      |      |      |
 | AMANUEL |      |      |      |      |      |             |      |      |      |
 | DAN |   17 (todos)  |      |      |      |      |             |      |      |      |
 | SARA |      |      |      |      |      |             |      |      |      |
