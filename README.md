@@ -29,7 +29,7 @@ Nº de los Ejercicios PRG realizados
 | DAVID |1, 2, 3, 4, 5      |      |      |      |      |             |      |      |      |
 | ANGEL |1, 2, 3, 4, 5, 6, 7      |      |      |      |      |             |      |      |      |
 | MIGUEL |      |      |      |      |      |             |      |      |      |
-| CARLOS |      |      |      |      |      |             |      |      |      |
+| CARLOS |  1,2,3,4 (4)    |      |      |      |      |             |      |      |      |
 | MARCO |      |      |      |      |      |             |      |      |      |
 | JORGE |      |      |      |      |      |             |      |      |      |
 | ROSANA |1, 2, 3, 4, 5, 6 ,7, 9, 10, 11     |      |      |      |      |             |      |      |      |
