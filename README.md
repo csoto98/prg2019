@@ -6,7 +6,7 @@ Nº de los Ejercicios PRG realizados
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
 | SERGIO    |      |      |      |      |      |             |      |      |      |
-| ALEXANDRA | 1, 2, 3, 4, 9     |      |      |      |      |             |      |      |      |
+| ALEXANDRA | 1, 2, 3, 4, 5, 8, 9     |      |      |      |      |             |      |      |      |
 | ACAMPOS   |      |      |      |      |      |             |      |      |      |
 | CLAUDIA   |      |      |      |      |      |             |      |      |      |
 | ADONET    | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10    |      |      |      |      |             |      |      |      |
