@@ -13,7 +13,7 @@ Nº de los Ejercicios PRG realizados
 | AFORNER |      |      |      |      |      |             |      |      |      |
 | IVAN |      |      |      |      |      |             |      |      |      |
 | LUIS |      |      |      |      |      |             |      |      |      |
-| ALOPEZ |      |      |      |      |      |             |      |      |      |
+| ALOPEZ | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13     |      |      |      |      |             |      |      |      |
 | JOAN |      |      |      |      |      |             |      |      |      |
 | EMILIO |      |      |      |      |      |             |      |      |      |
 | ENRIQUE |      |      |      |      |      |             |      |      |      |
