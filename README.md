@@ -16,7 +16,7 @@ Nº de los Ejercicios PRG realizados
 | ALOPEZ | 17     |      |      |      |      |             |      |      |      |
 | JOAN |      |      |      |      |      |             |      |      |      |
 | EMILIO |      |      |      |      |      |             |      |      |      |
-| ENRIQUE | 1, 2, 3     |      |      |      |      |             |      |      |      |
+| ENRIQUE | 4    |      |      |      |      |             |      |      |      |
 | PATRICIA |      |      |      |      |      |             |      |      |      |
 | AMANUEL |      |      |      |      |      |             |      |      |      |
 | DAN |   17 (todos)  |      |      |      |      |             |      |      |      |
