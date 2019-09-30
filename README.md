@@ -31,6 +31,6 @@ Nº de los Ejercicios PRG realizados
 | MIGUEL |      |      |      |      |      |             |      |      |      |
 | CARLOS | (5)  |      |      |      |      |             |      |      |      |
 | MARCO |   8   |      |      |      |      |             |      |      |      |
-| JORGE |      |      |      |      |      |             |      |      |      |
+| JORGE |   8   |      |      |      |      |             |      |      |      |
 | ROSANA |10|      |      |      |      |             |      |      |      |
 | DAVIDE |      |      |      |      |      |             |      |      |      |
