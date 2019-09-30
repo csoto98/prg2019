@@ -7,7 +7,7 @@ Nº de los Ejercicios PRG realizados
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
 | SERGIO    | 3    |      |      |      |      |             |      |      |      |
 | ALEXANDRA |9     |      |      |      |      |             |      |      |      |
-| ACAMPOS   |    5 |      |      |      |      |             |      |      |      |
+| ACAMPOS   |    6 |      |      |      |      |             |      |      |      |
 | CLAUDIA   |      |      |      |      |      |             |      |      |      |
 | ADONET    | 10   |      |      |      |      |             |      |      |      |
 | AFORNER |      |      |      |      |      |             |      |      |      |
