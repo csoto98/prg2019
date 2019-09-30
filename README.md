@@ -11,7 +11,7 @@ Nº de los Ejercicios PRG realizados
 | CLAUDIA   |      |      |      |      |      |             |      |      |      |
 | ADONET    | 10   |      |      |      |      |             |      |      |      |
 | AFORNER |      |      |      |      |      |             |      |      |      |
-| IVAN |      |      |      |      |      |             |      |      |      |
+| IVAN |   11   |      |      |      |      |             |      |      |      |
 | LUIS |      |      |      |      |      |             |      |      |      |
 | ALOPEZ | 17     |      |      |      |      |             |      |      |      |
 | JOAN |      |      |      |      |      |             |      |      |      |
@@ -28,7 +28,7 @@ Nº de los Ejercicios PRG realizados
 | HERNÁN |11|      |      |      |      |             |      |      |      |
 | DAVID |1, 2, 3, 4, 5      |      |      |      |      |             |      |      |      |
 | ANGEL |1, 2, 3, 4, 5, 6, 7      |      |      |      |      |             |      |      |      |
-| MIGUEL |      |      |      |      |      |             |      |      |      |
+| MIGUEL |   11   |      |      |      |      |             |      |      |      |
 | CARLOS | (8)  |      |      |      |      |             |      |      |      |
 | MARCO |   8   |      |      |      |      |             |      |      |      |
 | JORGE |   8   |      |      |      |      |             |      |      |      |
