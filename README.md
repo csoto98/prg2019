@@ -12,7 +12,7 @@ Nº de los Ejercicios PRG realizados
 | ADONET    | 10   |      |      |      |      |             |      |      |      |
 | AFORNER |      |      |      |      |      |             |      |      |      |
 | IVAN |   11   |      |      |      |      |             |      |      |      |
-| LUIS |      |      |      |      |      |             |      |      |      |
+| LUIS |   10   |      |      |      |      |             |      |      |      |
 | ALOPEZ | 17     |      |      |      |      |             |      |      |      |
 | JOAN |      |      |      |      |      |             |      |      |      |
 | EMILIO |      |      |      |      |      |             |      |      |      |
