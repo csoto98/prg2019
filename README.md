@@ -11,7 +11,7 @@ Nº de los Ejercicios PRG realizados
 | CLAUDIA   |      |      |      |      |      |             |      |      |      |
 | ADONET    | 10   |      |      |      |      |             |      |      |      |
 | AFORNER |        |      |      |      |      |             |      |      |      |
-| IVAN |      11   |      |      |      |      |             |      |      |      |
+| IVAN |      13   |      |      |      |      |             |      |      |      |
 | LUIS |      10   |      |      |      |      |             |      |      |      |
 | ALOPEZ |    17   |      |      |      |      |             |      |      |      |
 | JOAN |           |      |      |      |      |             |      |      |      |
