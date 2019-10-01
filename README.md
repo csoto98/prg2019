@@ -24,7 +24,7 @@ Nº de los Ejercicios PRG realizados
 | JONATHAN | 12    |      |      |      |      |             |      |      |      |
 | MARTA | 14      |      |      |      |      |             |      |      |      |
 | IREVERTE |       |      |      |      |      |             |      |      |      |
-| CRISTINA R | 10  |      |      |      |      |             |      |      |      |
+| CRISTINA R | 11  |      |      |      |      |             |      |      |      |
 | HERNÁN |11|      |      |      |      |             |      |      |      |
 | DAVID |1, 2, 3, 4, 5  |      |      |      |      |             |      |      |      |
 | ANGEL |1, 2, 3, 4, 5, 6, 7  |      |      |      |      |             |      |      |      |
