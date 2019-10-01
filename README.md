@@ -22,7 +22,7 @@ Nº de los Ejercicios PRG realizados
 | DAN |17 (todos)  |      |      |      |      |             |      |      |      |
 | SARA |           |      |      |      |      |             |      |      |      |
 | JONATHAN | 12    |      |      |      |      |             |      |      |      |
-| MARTA |  11      |      |      |      |      |             |      |      |      |
+| MARTA | 13)      |      |      |      |      |             |      |      |      |
 | IREVERTE |       |      |      |      |      |             |      |      |      |
 | CRISTINA R | 10  |      |      |      |      |             |      |      |      |
 | HERNÁN |11|      |      |      |      |             |      |      |      |
