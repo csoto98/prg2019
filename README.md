@@ -27,7 +27,7 @@ Nº de los Ejercicios PRG realizados
 | CRISTINA R | 11  |      |      |      |      |             |      |      |      |
 | HERNÁN |11|      |      |      |      |             |      |      |      |
 | DAVID S |10 |      |      |      |      |             |      |      |      |
-| ANGEL |1, 2, 3, 4, 5, 6, 7  |      |      |      |      |             |      |      |      |
+| ANGEL |10 |      |      |      |      |             |      |      |      |
 | MIGUEL |   11   |      |      |      |      |             |      |      |      |
 | CARLOS | (14)    |      |      |      |      |             |      |      |      |
 | MARCO |   8     |      |      |      |      |             |      |      |      |
