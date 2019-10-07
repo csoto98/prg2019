@@ -18,7 +18,7 @@ Nº de los Ejercicios PRG realizados
 | EMILIO |         |      |      |      |      |             |      |      |      |
 | ENRIQUE | 12     |      |      |      |      |             |      |      |      |
 | PATRICIA |   9   |   7  |      |      |      |             |      |      |      |
-| AMANUEL |        |      |      |      |      |             |      |      |      |
+| AMANUEL |    7   |      |      |      |      |             |      |      |      |
 | DAN |17 (todos)  |      |      |      |      |             |      |      |      |
 | SARA |           |      |      |      |      |             |      |      |      |
 | JONATHAN | 14    |      |      |      |      |             |      |      |      |
