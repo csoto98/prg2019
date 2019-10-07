@@ -29,7 +29,7 @@ Nº de los Ejercicios PRG realizados
 | DAVID S |10 |      |      |      |      |             |      |      |      |
 | ANGEL |10 |      |      |      |      |             |      |      |      |
 | MIGUEL |   11   |      |      |      |      |             |      |      |      |
-| CARLOS | (14)    |  (9)    |      |      |      |             |      |      |      |
+| CARLOS | (14)    |  (11)    |      |      |      |             |      |      |      |
 | MARCO |   8     |      |      |      |      |             |      |      |      |
 | JORGE |   8     |  8    |      |      |      |             |      |      |      |
 | ROSANA |  13    |   3  |      |      |      |             |      |      |      |
