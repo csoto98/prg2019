@@ -9,7 +9,7 @@ Nº de los Ejercicios PRG realizados
 | ALEXANDRA | 9    |      |      |      |      |             |      |      |      |
 | ACAMPOS   | 6    |      |      |      |      |             |      |      |      |
 | CLAUDIA   |      |      |      |      |      |             |      |      |      |
-| ADONET    | 10   |      |      |      |      |             |      |      |      |
+| ADONET    | 10   |  3    |      |      |      |             |      |      |      |
 | AFORNER |        |      |      |      |      |             |      |      |      |
 | IVAN |      14   |      |      |      |      |             |      |      |      |
 | LUIS |      10   |      |      |      |      |             |      |      |      |
