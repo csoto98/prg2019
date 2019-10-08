@@ -1,28 +1,28 @@
 # prg2019
 Ejercicios de Programación en Java
 
-Nº de los Ejercicios PRG realizados
+Nº de los Ejercicios PRG realizados. (Nota)
 
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
 | SERGIO    | 9(10)|      |      |      |      |             |      |      |      |
-| ALEXANDRA | 9    |      |      |      |      |             |      |      |      |
-| ACAMPOS   | 6    |      |      |      |      |             |      |      |      |
-| CLAUDIA   |      |      |      |      |      |             |      |      |      |
-| ADONET    | 10   |  9   |      |      |      |             |      |      |      |
-| AFORNER |        |      |      |      |      |             |      |      |      |
+| ALEXANDRA | 9(10)|      |      |      |      |             |      |      |      |
+| ACAMPOS   | 6(8) |      |      |      |      |             |      |      |      |
+| CLAUDIA   | (0)  |      |      |      |      |             |      |      |      |
+| ADONET    |10(10)|  9   |      |      |      |             |      |      |      |
 | IVAN |      14   |      |      |      |      |             |      |      |      |
-| LUIS |      10   |      |      |      |      |             |      |      |      |
-| ALOPEZ |    17   |      |      |      |      |             |      |      |      |
-| JOAN |           |      |      |      |      |             |      |      |      |
-| EMILIO |         |      |      |      |      |             |      |      |      |
-| ENRIQUE | 12     |      |      |      |      |             |      |      |      |
-| PATRICIA |   9   |   7  |      |      |      |             |      |      |      |
-| AMANUEL |    7   |      |      |      |      |             |      |      |      |
-| DAN |17 (todos)  |      |      |      |      |             |      |      |      |
-| SARA |           |      |      |      |      |             |      |      |      |
-| JONATHAN | 14    |      |      |      |      |             |      |      |      |
-| MARTA | 15      |      |      |      |      |             |      |      |      |
+| LUIS |     10(10)|      |      |      |      |             |      |      |      |
+| ALOPEZ |   17(10)|      |      |      |      |             |      |      |      |
+| CARLES |         |      |      |      |      |             |      |      |      |
+| JOAN |     (0)   |      |      |      |      |             |      |      |      |
+| ENRIQUE | 12(10) |      |      |      |      |             |      |      |      |
+| PATRICIA |  9(10)|   7  |      |      |      |             |      |      |      |
+| CMONTERO |   (10)|     |      |      |      |             |      |      |      |
+| AMORENO |  7(10) |      |      |      |      |             |      |      |      |
+| DAN    |17 (10)  |      |      |      |      |             |      |      |      |
+| SARA |     (0)   |      |      |      |      |             |      |      |      |
+| JONATHAN | 14(10)|      |      |      |      |             |      |      |      |
+| MARTA | 15(10)   |      |      |      |      |             |      |      |      |
 | IREVERTE |       |      |      |      |      |             |      |      |      |
 | CRISTINA R | 11  |      |      |      |      |             |      |      |      |
 | HERNÁN |11|      |      |      |      |             |      |      |      |
