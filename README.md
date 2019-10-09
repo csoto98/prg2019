@@ -12,7 +12,7 @@ Nº de los Ejercicios PRG realizados. (Nota)
 | ADONET    |10(10)|  9   |      |      |      |             |      |      |      |
 | IVAN |  14(10)   |      |      |      |      |             |      |      |      |
 | LUIS |     10(10)|      |      |      |      |             |      |      |      |
-| ALOPEZ |   17(10)|      |      |      |      |             |      |      |      |
+| ALOPEZ    |17(10)|  16  |      |      |      |             |      |      |      |
 | CARLES |         |      |      |      |      |             |      |      |      |
 | JOAN |     (0)   |      |      |      |      |             |      |      |      |
 | ENRIQUE | 12(10) |      |      |      |      |             |      |      |      |
