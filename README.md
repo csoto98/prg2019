@@ -14,7 +14,7 @@ Nº de los Ejercicios PRG realizados. (Nota)
 | LUIS |     10(10)|      |      |      |      |             |      |      |      |
 | ALOPEZ    |17(10)|  17  |      |      |      |             |      |      |      |
 | CARLES |         |      |      |      |      |             |      |      |      |
-| JOAN |     (0)   |      |      |      |      |             |      |      |      |
+| JOAN |     5(7)  |      |      |      |      |             |      |      |      |
 | ENRIQUE | 12(10) |      |      |      |      |             |      |      |      |
 | PATRICIA |  9(10)|   7  |      |      |      |             |      |      |      |
 | CMONTERO | 17(10)|     |      |      |      |             |      |      |      |
