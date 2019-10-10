@@ -9,7 +9,7 @@ Nº de los Ejercicios PRG realizados. (Nota)
 | ALEXANDRA | 9(10)|      |      |      |      |             |      |      |      |
 | ACAMPOS   | 6(8) |      |      |      |      |             |      |      |      |
 | CLAUDIA   | (0)  |      |      |      |      |             |      |      |      |
-| ADONET    |10(10)|  9   |      |      |      |             |      |      |      |
+| ADONET    |10(10)|  14   |      |      |      |             |      |      |      |
 | IVAN |  14(10)   |      |      |      |      |             |      |      |      |
 | LUIS |     10(10)|      |      |      |      |             |      |      |      |
 | ALOPEZ    |17(10)|  17  |      |      |      |             |      |      |      |
