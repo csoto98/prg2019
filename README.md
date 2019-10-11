@@ -16,7 +16,7 @@ Nº de los Ejercicios PRG realizados. (Nota)
 | CARLES |         |      |      |      |      |             |      |      |      |
 | JOAN |     5(7)  |      |      |      |      |             |      |      |      |
 | ENRIQUE | 12(10) |      |      |      |      |             |      |      |      |
-| PATRICIA |  9(10)|   9  |      |      |      |             |      |      |      |
+| PATRICIA |  9(10)|   10  |      |      |      |             |      |      |      |
 | CMONTERO | 17(10)|     |      |      |      |             |      |      |      |
 | AMORENO |  7(10) |      |      |      |      |             |      |      |      |
 | DAN    |17 (10)  |      |      |      |      |             |      |      |      |
