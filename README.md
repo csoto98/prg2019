@@ -34,5 +34,5 @@ Nº de los Ejercicios PRG realizados. (Nota)
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |
 | ROSANA |  13(10) |   7  |      |      |      |             |      |      |      |
 | DAVIDE |  12(10) |     |      |      |      |             |      |      |      |
-| AMAÑÓ  |  9      |   12 |      |      |      |             |      |      |      |
+| AMAÑÓ  |  9      |   13 |      |      |      |             |      |      |      |
 | Adrian  |  10     |      |      |      |      |             |      |      |      |
