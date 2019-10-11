@@ -30,7 +30,7 @@ Nº de los Ejercicios PRG realizados. (Nota)
 | MIGUEL |   11(10)|      |      |      |      |             |      |      |      |
 | CARLOS |   14(10)|  11    |      |      |      |             |      |      |      |
 | MARCO |   8(10)  |   3   |      |      |      |             |      |      |      |
-| JORGE |   8(10)  |  11    |      |      |      |             |      |      |      |
+| JORGE |   8(10)  |  12    |      |      |      |             |      |      |      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |
 | ROSANA |  13(10) |   3  |      |      |      |             |      |      |      |
 | DAVIDE |  12(10) |      |      |      |      |             |      |      |      |
