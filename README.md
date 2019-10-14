@@ -2,6 +2,15 @@
 Ejercicios de Programación en Java
 
 Nº de los Ejercicios PRG realizados. (Nota)
+Nª Ejercicios	Nota
+8	10
+7	9
+6	8
+5	7
+4	6
+3	5
+2	4
+1	3
 
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
