@@ -24,7 +24,7 @@ Nª Ejercicios	Nota
 | ALOPEZ    |17(10)|  21  |      |      |      |             |      |      |      |
 | CARLES    |      |      |      |      |      |             |      |      |      |
 | JOAN      |  5(7)|      |      |      |      |             |      |      |      |
-| ENRIQUE   |12(10)|      |      |      |      |             |      |      |      |
+| ENRIQUE   |12(10)|   8  |      |      |      |             |      |      |      |
 | PATRICIA  | 9(10)|  11  |      |      |      |             |      |      |      |
 | CMONTERO  |17(10)|      |      |      |      |             |      |      |      |
 | AMORENO   | 7(10)|   4  |      |      |      |             |      |      |      |
