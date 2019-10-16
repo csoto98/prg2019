@@ -27,7 +27,7 @@ Nª Ejercicios	Nota
 | ENRIQUE   |12(10)|   8  |      |      |      |             |      |      |      |
 | PATRICIA  | 9(10)|  13  |      |      |      |             |      |      |      |
 | CMONTERO  |17(10)|      |      |      |      |             |      |      |      |
-| AMORENO   | 7(10)|   5  |      |      |      |             |      |      |      |
+| AMORENO   | 7(10)|   7  |      |      |      |             |      |      |      |
 | DAN       |17(10)|   6  |      |      |      |             |      |      |      |
 | SARA      |   (0)|      |      |      |      |             |      |      |      |
 | JONATHAN  |14(10)|      |      |      |      |             |      |      |      |
