@@ -14,7 +14,7 @@ Nª Ejercicios	Nota
 
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
-| SERGIO    | 9(10)|   10  |      |      |      |             |      |      |      |
+| SERGIO    | 9(10)|  10  |      |      |      |             |      |      |      |
 | ALEXANDRA | 9(10)|      |      |      |      |             |      |      |      |
 | ACAMPOS   | 6(8) |      |      |      |      |             |      |      |      |
 | CLAUDIA   | (0)  |      |      |      |      |             |      |      |      |
@@ -28,7 +28,7 @@ Nª Ejercicios	Nota
 | PATRICIA  | 9(10)|  14  |      |      |      |             |      |      |      |
 | CMONTERO  |17(10)|      |      |      |      |             |      |      |      |
 | AMORENO   | 7(10)|   7  |      |      |      |             |      |      |      |
-| DAN       |17(10)|   6  |      |      |      |             |      |      |      |
+| DAN       |17(10)|   8  |      |      |      |             |      |      |      |
 | SARA      |   (0)|      |      |      |      |             |      |      |      |
 | JONATHAN  |14(10)|      |      |      |      |             |      |      |      |
 | MARTA     |15(10)|  10  |      |      |      |             |      |      |      |
