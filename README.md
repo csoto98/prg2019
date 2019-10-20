@@ -25,7 +25,7 @@ Nª Ejercicios	Nota
 | CARLES    |      |      |      |      |      |             |      |      |      |
 | JOAN      |  5(7)|   5   |      |      |      |             |      |      |      |
 | ENRIQUE   |12(10)|   9  |      |      |      |             |      |      |      |
-| PATRICIA  | 9(10)|  17  |      |      |      |             |      |      |      |
+| PATRICIA  | 9(10)|  18  |      |      |      |             |      |      |      |
 | CMONTERO  |17(10)|      |      |      |      |             |      |      |      |
 | AMORENO   | 7(10)|   9  |      |      |      |             |      |      |      |
 | DAN       |17(10)|   8  |      |      |      |             |      |      |      |
