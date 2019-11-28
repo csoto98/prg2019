@@ -18,7 +18,7 @@ Nª Ejercicios	Nota
 | ALEXANDRA | 9(10)|  9   |   3  |      |      |             |      |      |      |      |
 | ACAMPOS   | 6(8) |  7   |   3  |      |      |             |      |      |      |      |
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
-| IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |      |Informatización de un economato
+| IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |Informatización de un economato      |
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
 | ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |      |
 | AMAÑÓ     |9 (10)|  30  |   8  |      |      |             |      |      |      |      |
@@ -27,9 +27,9 @@ Nª Ejercicios	Nota
 | PATRICIA  | 9(10)|  19  |   8  |  1   |      |             |      |      |      |      |
 | CMONTERO  |17(10)|  49  |   8  |      |      |             |      |      |      |      |
 | AMORENO   | 7(10)|  11  |   8  |      |      |             |      |      |      |      |
-| DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |      |Agencia de reservas de casas rurales Teruel existe
+| DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |Agencia de reservas de casas rurales Teruel existe|
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
-| SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |      |Proyecto personal: Columbia Pictures.
+| SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |      |
 | JONATHAN  |14(10)|  11  |   8  |      |      |             |      |      |      |      |
 | MARTA     |15(10)|  17  |   8  |      |      |             |      |      |      |      |Casa de la juventud Las Fuentes
 | CRISTINA R|11(10)|  11  |      |      |      |             |      |      |      |      |
