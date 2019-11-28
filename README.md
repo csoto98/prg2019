@@ -31,7 +31,7 @@ Nª Ejercicios	Nota
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |      |
 | JONATHAN  |14(10)|  11  |   8  |      |      |             |      |      |      |      |
-| MARTA     |15(10)|  17  |   8  |      |      |             |      |      |      |      |
+| MARTA     |15(10)|  17  |   8  |      |      |             |      |      |      |      |Casa de la juventud Las Fuentes
 | CRISTINA R|11(10)|  11  |      |      |      |             |      |      |      |      |
 | HERNÁN    |11(10)|  18  |   8  |      |      |             |      |      |      |      |
 | DAVID S   |10(10)|  14  |   8  |      |      |             |      |      |      |      |
