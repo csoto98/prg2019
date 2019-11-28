@@ -39,7 +39,7 @@ Nª Ejercicios	Nota
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |      |      |             |      |      |      |      |
 | MARCO     | 8(10)|  14  |   9  |      |      |             |      |      |      |      |
-| JORGE     | 8(10)|  19  |   7  |      |      |             |      |      |      |      |
+| JORGE     | 8(10)|  19  |   7  |      |      |             |      |      |      |      |Comunidad de propietarios del edificio Villahermosa
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
 | ROSANA    |13(10)|  23  |   4  |      |      |             |      |      |      |      |
 | DAVIDE    |12(10)|  39  |   7  |      |      |             |      |      |      |      |
