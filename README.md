@@ -15,9 +15,9 @@ Nª Ejercicios	Nota
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |Titulo Proyecto |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |--------------- |
 | SERGIO    | 9(10)|  10  |   6  |  1   |      |             |      |      |      |8. Taller mecánico Caragols|
-| ALEXANDRA | 9(10)|  9   |   3  |      |      |             |      |      |      |      |
+| ALEXANDRA | 9(10)|  9   |   3  |      |      |             |      |      |      |11. Gestión integral de farmacias Dorar la píldora|
 | ACAMPOS   | 6(8) |  7   |   3  |      |      |             |      |      |      |      |
-| ADONET    |10(10)|  14  |      |      |      |             |      |      |      |Proyecto propio: Almacén de lujo      |
+| ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
 | IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |Informatización de un economato|
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
 | ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |Estacion Autobuses|
