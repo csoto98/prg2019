@@ -14,7 +14,7 @@ Nª Ejercicios	Nota
 
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |Titulo Proyecto |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |--------------- |
-| SERGIO    | 9(10)|  10  |   6  |  1   |      |             |      |      |      |      |
+| SERGIO    | 9(10)|  10  |   6  |  1   |      |             |      |      |      |8. Taller mecánico Caragols|
 | ALEXANDRA | 9(10)|  9   |   3  |      |      |             |      |      |      |      |
 | ACAMPOS   | 6(8) |  7   |   3  |      |      |             |      |      |      |      |
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
