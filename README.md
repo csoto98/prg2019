@@ -20,7 +20,7 @@ Nª Ejercicios	Nota
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
 | IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |      |Informatización de un economato
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
-| ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |      |
+| ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |  EmpresaAutobuses    |
 | AMAÑÓ     |9 (10)|  30  |   8  |      |      |             |      |      |      |      |
 | JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |      |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |      |
@@ -31,7 +31,7 @@ Nª Ejercicios	Nota
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |      |
 | JONATHAN  |14(10)|  11  |   8  |      |      |             |      |      |      |      |
-| MARTA     |15(10)|  17  |   8  |      |      |             |      |      |      |Casa de la juventud Las Fuentes      |
+| MARTA     |15(10)|  17  |   8  |      |      |             |      |      |      |      |Casa de la juventud Las Fuentes
 | CRISTINA R|11(10)|  11  |      |      |      |             |      |      |      |      |
 | HERNÁN    |11(10)|  18  |   8  |      |      |             |      |      |      |      |
 | DAVID S   |10(10)|  14  |   8  |      |      |             |      |      |      |      |
