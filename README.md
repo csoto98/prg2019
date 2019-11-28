@@ -17,7 +17,7 @@ Nª Ejercicios	Nota
 | SERGIO    | 9(10)|  10  |   6  |  1   |      |             |      |      |      |8. Taller mecánico Caragols|
 | ALEXANDRA | 9(10)|  9   |   3  |      |      |             |      |      |      |      |
 | ACAMPOS   | 6(8) |  7   |   3  |      |      |             |      |      |      |      |
-| ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
+| ADONET    |10(10)|  14  |      |      |      |             |      |      |      |Proyecto propio: Almacén de lujo      |
 | IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |Informatización de un economato|
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
 | ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |Estacion Autobuses|
