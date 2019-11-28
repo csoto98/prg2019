@@ -18,16 +18,16 @@ Nª Ejercicios	Nota
 | ALEXANDRA | 9(10)|  9   |   3  |      |      |             |      |      |      |      |
 | ACAMPOS   | 6(8) |  7   |   3  |      |      |             |      |      |      |      |
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
-| IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |      |
+| IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |      |Informatización de un economato
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
-| ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |  EmpresaAutobuses    |
+| ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |      |
 | AMAÑÓ     |9 (10)|  30  |   8  |      |      |             |      |      |      |      |
 | JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |      |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |      |
 | PATRICIA  | 9(10)|  19  |   8  |  1   |      |             |      |      |      |      |
 | CMONTERO  |17(10)|  49  |   8  |      |      |             |      |      |      |      |
 | AMORENO   | 7(10)|  11  |   8  |      |      |             |      |      |      |      |
-| DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |      |
+| DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |      |Agencia de reservas de casas rurales Teruel existe
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |      |
 | JONATHAN  |14(10)|  11  |   8  |      |      |             |      |      |      |      |
@@ -39,7 +39,7 @@ Nª Ejercicios	Nota
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |      |      |             |      |      |      |      |
 | MARCO     | 8(10)|  14  |   9  |      |      |             |      |      |      |      |
-| JORGE     | 8(10)|  19  |   7  |      |      |             |      |      |      |      |Comunidad de propietarios del edificio Villahermosa
+| JORGE     | 8(10)|  19  |   7  |      |      |             |      |      |      |      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
 | ROSANA    |13(10)|  23  |   4  |      |      |             |      |      |      |      |
 | DAVIDE    |12(10)|  39  |   7  |      |      |             |      |      |      |      |
