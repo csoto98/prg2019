@@ -26,7 +26,7 @@ Nª Ejercicios	Nota
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |      |
 | PATRICIA  | 9(10)|  19  |   8  |  1   |      |             |      |      |      |      |
 | CMONTERO  |17(10)|  49  |   8  |      |      |             |      |      |      |      |
-| AMORENO   | 7(10)|  11  |   8  |      |      |             |      |      |      |      |
+| AMORENO   | 7(10)|  11  |   8  |      |      |             |      |      |      | 3. Sistema de reserva y venta de billetes Ferrocarriles Canfranc|
 | DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |Agencia de reservas de casas rurales Teruel existe|
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |Proyecto personal: Columbia Pictures.|
