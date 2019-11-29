@@ -30,7 +30,7 @@ Nª Ejercicios	Nota
 | DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |Agencia de reservas de casas rurales Teruel existe|
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |Proyecto personal: Columbia Pictures.|
-| JONATHAN  |14(10)|  11  |   8  |      |      |             |      |      |      |  9. Sistema de matriculación IES La Dolores    |
+| JONATHAN  |14(10)|  11  |   8  |      |      |             |      |      |      | 1. Comunidad de propietarios del edificio Villahermosa    |
 | MARTA     |15(10)|  17  |   8  |      |      |             |      |      |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |      |      |      |             |      |      |      |      |
 | HERNÁN    |11(10)|  18  |   8  |      |      |             |      |      |      |      |
