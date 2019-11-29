@@ -37,7 +37,7 @@ Nª Ejercicios	Nota
 | DAVID S   |10(10)|  14  |   8  |      |      |             |      |      |      |      |
 | ANGEL     |10(10)|  14  |  10  |      |      |             |      |      |      |      |
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
-| CARLOS    |14(10)|  18  |   8  |      |      |             |      |      |      |      |
+| CARLOS    |14(10)|  18  |   8  |      |      |             |      |      |      | Programa de Inventario de Productos  |
 | MARCO     | 8(10)|  14  |   9  |      |      |             |      |      |      |      |
 | JORGE     | 8(10)|  19  |   7  |      |      |             |      |      |      |      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
