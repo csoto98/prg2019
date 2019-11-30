@@ -22,7 +22,7 @@ Nª Ejercicios	Nota
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
 | ALOPEZ    |17(10)|  31  |  10  |      |      |             |      |      |      |Estacion Autobuses|
 | AMAÑÓ     |9 (10)|  30  |   8  |      |      |             |      |      |      |Proyecto personal: Reserva Negocio|
-| JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |  14. Gestión casal fallero    |
+| JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |     |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |Sistema de abastecimiento de la sección textil de la cadena de hipermercados César Augusto, le atendemos con gusto      |
 | PATRICIA  | 9(10)|  19  |   8  |  1   |      |             |      |      |      |      |
 | CMONTERO  |17(10)|  49  |   8  |      |      |             |      |      |      | MyVet. Proyecto propio sobre veterinaria  
