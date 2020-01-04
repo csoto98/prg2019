@@ -38,7 +38,7 @@ Nª Ejercicios	Nota
 | ANGEL     |10(10)|  14  |  10  |      |      |             |      |      |      |      |
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |      |      |             |      |      |      | Programa de Inventario de Productos  |
-| MARCO     | 8(10)|  14  |   9  |      |      |             |      |      |      |      |
+| MARCO     | 8(10)|  14  |   9  |  1   |      |             |      |      |      |      |
 | JORGE     | 8(10)|  19  |   7  |  2   |      |             |      |      |      |      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
 | ROSANA    |13(10)|  23  |   4  |  5   |      |             |      |      |      |Proyecto propio: Fem marketing     |
