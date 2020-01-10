@@ -16,7 +16,7 @@ Nª Ejercicios	Nota
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |--------------- |
 | SERGIO    | 9(10)|  10  |   6  |  1   |      |             |      |      |      |8. Taller mecánico Caragols|
 | ALEXANDRA | 9(10)|  9   |   3  |      |      |             |      |      |      |11. Gestión integral de farmacias Dorar la píldora|
-| ACAMPOS   | 6(8) |  7   |   3  |      |      |             |      |      |      |7.Restaurante panza llena corazon contento   |
+| ACAMPOS   | 6(8) |  7   |   3  |  1   |      |             |      |      |      |7.Restaurante panza llena corazon contento   |
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
 | IVAN      |14(10)|  15  |   4  |      |      |             |      |      |      |Informatización de un economato|
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
