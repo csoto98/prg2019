@@ -14,13 +14,13 @@ Nª Ejercicios	Nota
 
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |Titulo Proyecto |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |--------------- |
-| SERGIO    | 9(10)|  10  |   6  |  6   |   1   |             |      |      |      |8. Taller mecánico Caragols|
-| ALEXANDRA | 9(10)|  9   |   3  |  4    |      |             |      |      |      |11. Gestión integral de farmacias Dorar la píldora|
+| SERGIO    | 9(10)|  10  |   6  |  6   |   1  |             |      |      |      |8. Taller mecánico Caragols|
+| ALEXANDRA | 9(10)|  9   |   3  |  4   |      |             |      |      |      |11. Gestión integral de farmacias Dorar la píldora|
 | ACAMPOS   | 6(8) |  7   |   3  |  2   |      |             |      |      |      |7.Restaurante panza llena corazon contento   |
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
 | IVAN      |14(10)|  15  |   4  |  3   |      |             |      |      |      |Informatización de un economato|
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
-| ALOPEZ    |17(10)|  31  |  10  |   8  |   2  |             |      |      |      |Estacion Autobuses|
+| ALOPEZ    |17(10)|  31  |  10  |   8  |   3  |             |      |      |      |Estacion Autobuses|
 | AMAÑÓ     |9 (10)|  30  |   8  |      |      |             |      |      |      |Proyecto personal: Reserva Negocio|
 | JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |Proyecto propio: reserva y ventas entradas evento. |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |Sistema de abastecimiento de la sección textil de la cadena de hipermercados César Augusto, le atendemos con gusto      |
@@ -31,13 +31,13 @@ Nª Ejercicios	Nota
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |Proyecto personal: Columbia Pictures.|
 | JONATHAN  |14(10)|  11  |   8  |   8  |      |             |      |      |      |9. Sistema de matriculación IES La Dolores  |
-| MARTA     |15(10)|  17  |   8  |   8  |  4    |             |      |      |      |Casa de la juventud Las Fuentes |
+| MARTA     |15(10)|  17  |   8  |   8  |  4   |             |      |      |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |   2  |      |      |             |      |      |      |   14.Gestión casal fallero   |
 | HERNÁN    |11(10)|  18  |   8  |   8  |      |             |      |      |      |      |
 | DAVID S   |10(10)|  14  |   8  |      |      |             |      |      |      |      |
-| ANGEL     |10(10)|  14  |  10  |   8   |      |             |      |      |      |Proyecto: Control de visitas|
+| ANGEL     |10(10)|  14  |  10  |   8  |      |             |      |      |      |Proyecto: Control de visitas|
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
-| CARLOS    |14(10)|  18  |   8  |  8  |      |             |      |      |      | Programa de Inventario de Productos  |
+| CARLOS    |14(10)|  18  |   8  |   8  |      |             |      |      |      | Programa de Inventario de Productos  |
 | MARCO     | 8(10)|  14  |   9  |  8   |  3   |             |      |      |      |      |
 | JORGE     | 8(10)|  19  |   7  |  8   |  6   |             |      |      |      |Comunidad de propietarios del edificio Villahermosa      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
