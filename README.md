@@ -21,7 +21,7 @@ Nª Ejercicios	Nota
 | IVAN      |14(10)|  15  |   4  |  3   |      |             |      |      |      |Informatización de un economato|
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
 | ALOPEZ    |17(10)|  31  |  10  |   8  |   4  |             |      |      |      |Estacion Autobuses|
-| AMAÑÓ     |9 (10)|  30  |   8  |      |      |             |      |      |      |Proyecto personal: Reserva Negocio|
+| AMAÑÓ     |9 (10)|  30  |   8  |  6   |      |             |      |      |      |Proyecto personal: Reserva Negocio|
 | JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |Proyecto propio: reserva y ventas entradas evento. |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |Sistema de abastecimiento de la sección textil de la cadena de hipermercados César Augusto, le atendemos con gusto      |
 | PATRICIA  | 9(10)|  19  |   8  |   8  |   1  |             |      |      |      |      |
