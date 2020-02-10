@@ -20,7 +20,7 @@ Nª Ejercicios	Nota
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
 | IVAN      |14(10)|  15  |   4  |  3   |      |             |      |      |      |Informatización de un economato|
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
-| ALOPEZ    |17(10)|  31  |  10  |   8  |   5  |             |      |      |      |Estacion Autobuses|
+| ALOPEZ    |17(10)|  31  |  10  |   8  |   6  |             |      |      |      |Estacion Autobuses|
 | AMAÑÓ     |9 (10)|  30  |   8  |  6   |      |             |      |      |      |Proyecto personal: Reserva Negocio|
 | JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |Proyecto propio: reserva y ventas entradas evento. |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |Sistema de abastecimiento de la sección textil de la cadena de hipermercados César Augusto, le atendemos con gusto      |
