@@ -38,7 +38,7 @@ Nª Ejercicios	Nota
 | ANGEL     |10(10)|  14  |  10  |   8  |      |             |      |      |      |Proyecto: Control de visitas|
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |   8  |      |             |      |      |      | Programa de Inventario de Productos  |
-| MARCO     | 8(10)|  14  |   9  |  8   |  7   |             |      |      |      |      |
+| MARCO     | 8(10)|  14  |   9  |  8   |  9   |             |      |      |      |      |
 | JORGE     | 8(10)|  19  |   7  |  8   |  6   |             |      |      |      |Comunidad de propietarios del edificio Villahermosa      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
 | ROSANA    |13(10)|  23  |   4  |  8   |      |             |      |      |      |Proyecto propio: Fem marketing     |
