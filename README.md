@@ -34,7 +34,7 @@ Nª Ejercicios	Nota
 | MARTA     |15(10)|  17  |   8  |   8  |  8   |             |      |      |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |   2  |      |      |             |      |      |      |   14.Gestión casal fallero   |
 | HERNÁN    |11(10)|  18  |   8  |   8  |      |             |      |      |      |      |
-| DAVID S   |10(10)|  14  |   8  |      |      |             |      |      |      |      |
+| DAVID S   |10(10)|  14  |   8  |      |  7   |             |      |      |      |      |
 | ANGEL     |10(10)|  14  |  10  |   8  |      |             |      |      |      |Proyecto: Control de visitas|
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |   8  |      |             |      |      |      | Programa de Inventario de Productos  |
