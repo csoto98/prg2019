@@ -33,7 +33,7 @@ Nª Ejercicios	Nota
 | JONATHAN  |14(10)|  11  |   8  |   8  |  5   |             |      |      |      |9. Sistema de matriculación IES La Dolores  |
 | MARTA     |15(10)|  17  |   8  |   8  |  8   |             |      |      |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |   2  |      |      |             |      |      |      |   14.Gestión casal fallero   |
-| HERNÁN    |11(10)|  18  |   8  |   8  |      |             |      |      |      |      |
+| HERNÁN    |11(10)|  18  |   8  |   8  |  11    |             |      |      |      |      |
 | DAVID S   |10(10)|  14  |   8  |      |  7   |             |      |      |      |      |
 | ANGEL     |10(10)|  14  |  10  |   8  |      |             |      |      |      |Proyecto: Control de visitas|
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
