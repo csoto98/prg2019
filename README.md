@@ -30,7 +30,7 @@ Nª Ejercicios	Nota
 | DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |Agencia de reservas de casas rurales Teruel existe|
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |Proyecto personal: Columbia Pictures.|
-| JONATHAN  |14(10)|  11  |   8  |   8  |  4   |             |      |      |      |9. Sistema de matriculación IES La Dolores  |
+| JONATHAN  |14(10)|  11  |   8  |   8  |  5   |             |      |      |      |9. Sistema de matriculación IES La Dolores  |
 | MARTA     |15(10)|  17  |   8  |   8  |  8   |             |      |      |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |   2  |      |      |             |      |      |      |   14.Gestión casal fallero   |
 | HERNÁN    |11(10)|  18  |   8  |   8  |      |             |      |      |      |      |
