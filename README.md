@@ -14,7 +14,7 @@ Nª Ejercicios	Nota
 
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |Titulo Proyecto |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |--------------- |
-| SERGIO    | 9(10)|  10  |   6  |  6   |   3  |             |      |      |      |8. Taller mecánico Caragols|
+| SERGIO    | 9(10)|  10  |   6  |  6   |   4  |             |      |      |      |8. Taller mecánico Caragols|
 | ALEXANDRA | 9(10)|  9   |   3  |  4   |      |             |      |      |      |11. Gestión integral de farmacias Dorar la píldora|
 | ACAMPOS   | 6(8) |  7   |   3  |  2   |      |             |      |      |      |7.Restaurante panza llena corazon contento   |
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
@@ -24,7 +24,7 @@ Nª Ejercicios	Nota
 | AMAÑÓ     |9 (10)|  30  |   8  |  6   |      |             |      |      |      |Proyecto personal: Reserva Negocio|
 | JOAN      |  5(7)|   8  |   4  |      |      |             |      |      |      |Proyecto propio: reserva y ventas entradas evento. |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |Sistema de abastecimiento de la sección textil de la cadena de hipermercados César Augusto, le atendemos con gusto      |
-| PATRICIA  | 9(10)|  19  |   8  |   8  |   3  |             |      |      |      |      |
+| PATRICIA  | 9(10)|  19  |   8  |   8  |   4  |             |      |      |      |      |
 | CMONTERO  |17(10)|  49  |   8  |  10  |  11  |             |      |      |      | MyVet. Proyecto propio sobre veterinaria  
 | AMORENO   | 7(10)|  11  |   8  |   6  |   6  |             |      |      |      | 3. Sistema de reserva y venta de billetes Ferrocarriles Canfranc |
 | DAN       |17(10)|  10  |   7  |      |      |             |      |      |      |Agencia de reservas de casas rurales Teruel existe|
