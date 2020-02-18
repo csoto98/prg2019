@@ -39,7 +39,7 @@ Nª Ejercicios	Nota
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |   8  |      |             |      |      |      | Programa de Inventario de Productos  |
 | MARCO     | 8(10)|  14  |   9  |  8   |  10  |             |      |      |      |      |
-| JORGE     | 8(10)|  19  |   7  |  8   |  8   |             |      |      |      |Comunidad de propietarios del edificio Villahermosa      |
+| JORGE     | 8(10)|  19  |   7  |  8   |  9   |             |      |      |      |Comunidad de propietarios del edificio Villahermosa      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
 | ROSANA    |13(10)|  23  |   4  |  8   |  10  |             |      |      |      |Proyecto propio: Fem marketing     |
 | DAVIDE    |12(10)|  39  |   7  |  5   |      |             |      |      |      |Proyecto personal: Laboratorio de control de calidad      |
