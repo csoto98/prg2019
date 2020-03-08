@@ -27,7 +27,7 @@ Nª Ejercicios	Nota
 | PATRICIA  | 9(10)|  19  |   8  |   8  |   7  |      6      |      |      |      |      |
 | CMONTERO  |17(10)|  49  |   8  |  10  |  11  |      8      |      |      |      | MyVet. Proyecto propio sobre veterinaria  
 | AMORENO   | 7(10)|  11  |   8  |   6  |   8  |      8      |      |      |      | 3. Sistema de reserva y venta de billetes Ferrocarriles Canfranc |
-| DAN       |17(10)|  10  |   7  |   6  |   8  |             |      |      |      |Agencia de reservas de casas rurales Teruel existe|
+| DAN       |17(10)|  10  |   7  |   6  |   8  |      6      |      |      |      |Agencia de reservas de casas rurales Teruel existe|
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |      |      |      |Proyecto personal: Fotografía |
 | JONATHAN  |14(10)|  11  |   8  |   8  |  8   |      8      |      |      |      |9. Sistema de matriculación IES La Dolores  |
