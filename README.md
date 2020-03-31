@@ -20,7 +20,7 @@ Nª Ejercicios	Nota
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
 | IVAN      |14(10)|  15  |   4  |  3   |   3  |             |      |      |      |Informatización de un economato|
 | LUIS      |10(10)|  10  |      |      |      |             |      |      |      |      |
-| ALOPEZ    |17(10)|  31  |  10  |  8   |   9  |      9      |      |      |      |Estacion Autobuses|
+| ALOPEZ    |17(10)|  31  |  10  |  8   |   9  |      9      |   6  |      |      |Estacion Autobuses|
 | AMAÑÓ     |9 (10)|  30  |   8  |  6   |      |             |      |      |      |Proyecto personal: Reserva Negocio|
 | JOAN      |  5(7)|   8  |   4  |  1   |   7  |             |      |      |      |Proyecto propio: reserva y ventas entradas evento. |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |Sistema de abastecimiento de la sección textil de la cadena de hipermercados César Augusto, le atendemos con gusto      |
@@ -31,15 +31,15 @@ Nª Ejercicios	Nota
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |   1  |      |      |Proyecto personal: Fotografía |
 | JONATHAN  |14(10)|  11  |   8  |   8  |  8   |      8      |      |      |      |9. Sistema de matriculación IES La Dolores  |
-| MARTA     |15(10)|  17  |   8  |   8  |  8   | 4            |      |      |      |Casa de la juventud Las Fuentes |
+| MARTA     |15(10)|  17  |   8  |   8  |  8   |      4      |      |      |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |   2  |      |      |             |      |      |      |   14.Gestión casal fallero   |
-| HERNÁN    |11(10)|  18  |   8  |   8  |  11    |    6         |      |      |      |Óptica Ojo Avizar      |
-| DAVID S   |10(10)|  14  |   8  |   8   |  7   |             |      |      |      | 2. Tienda de electrónica Don electrón     |
-| ANGEL     |10(10)|  14  |  10  |   8  |    19  |     12        |      |      |      |Proyecto: Control de visitas|
+| HERNÁN    |11(10)|  18  |   8  |   8  |  11  |    6        |      |      |      |Óptica Ojo Avizar      |
+| DAVID S   |10(10)|  14  |   8  |   8  |   7  |             |      |      |      | 2. Tienda de electrónica Don electrón     |
+| ANGEL     |10(10)|  14  |  10  |   8  |  19  |     12      |      |      |      |Proyecto: Control de visitas|
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |   8  |      |             |      |      |      | Programa de Inventario de Productos  |
 | MARCO     | 8(10)|  14  |   9  |  8   |  10  |      8      |   6  |      |      |    Proyecto personal: Plataforma de podcast  |
-| JORGE     | 8(10)|  19  |   7  |  8   |  11   |     6        |   4   |      |      |Comunidad de propietarios del edificio Villahermosa      |
+| JORGE     | 8(10)|  19  |   7  |  8   |  11   |     6      |   4  |      |      |Comunidad de propietarios del edificio Villahermosa      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
 | ROSANA    |13(10)|  23  |   4  |  8   |  10  |     8       |      |      |      |Proyecto propio: Fem marketing     |
 | DAVIDE    |12(10)|  39  |   7  |  5   |      |             |      |      |      |Proyecto personal: Laboratorio de control de calidad      |
