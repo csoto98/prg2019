@@ -36,7 +36,7 @@ Nª Ejercicios	Nota
 | HERNÁN    |11(10)|  18  |   8  |   8  |  11  |      6      |      |      |      |Óptica Ojo Avizar      |
 | DAVID S   |10(10)|  14  |   8  |   8  |   7  |             |      |      |      | 2. Tienda de electrónica Don electrón     |
 | ANGEL     |10(10)|  14  |  10  |   8  |  19  |     12      |      |      |      |Proyecto: Control de visitas|
-| MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
+| MIGUEL    |11(10)|  6   |      |      |      |             |  7    |      |      |      |
 | CARLOS    |14(10)|  18  |   8  |   8  |      |             |      |      |      | Programa de Inventario de Productos  |
 | MARCO     | 8(10)|  14  |   9  |   8  |  10  |      8      |   9  |      |      |    Proyecto personal: Plataforma de podcast  |
 | JORGE     | 8(10)|  19  |   7  |   8  |  11   |     6      |   6  |      |      |Comunidad de propietarios del edificio Villahermosa      |
