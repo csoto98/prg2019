@@ -15,7 +15,7 @@ Nª Ejercicios	Nota
 | Nombre    | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |Titulo Proyecto |
 | ------    | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |--------------- |
 | SERGIO    | 9(10)|  10  |   6  |   6  |   7  |      5      |   5  |      |      |8. Taller mecánico Caragols|
-| ALEXANDRA | 9(10)|  9   |   3  |   4  |      |             |      |      |      |11. Gestión integral de farmacias Dorar la píldora|
+| ALEXANDRA | 9(10)|  9   |   3  |   4  |      |             |   3   |      |      |11. Gestión integral de farmacias Dorar la píldora|
 | ACAMPOS   | 6(8) |  7   |   3  |   2  |   3  |             |   6  |      |      |7.Restaurante panza llena corazon contento   |
 | ADONET    |10(10)|  14  |      |      |      |             |      |      |      |      |
 | IVAN      |14(10)|  15  |   4  |   3  |   3  |             |  8   |      |      |Informatización de un economato|
