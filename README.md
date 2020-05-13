@@ -25,7 +25,7 @@ Nª Ejercicios	Nota
 | JOAN      |  5(7)|   8  |   4  |   1  |   7  |             |   3  |      |      |Proyecto propio: reserva y ventas entradas evento. |
 | ENRIQUE   |12(10)|   9  |   2  |      |      |             |      |      |      |Sistema de abastecimiento de la sección textil de la cadena de hipermercados César Augusto, le atendemos con gusto      |
 | PATRICIA  | 9(10)|  19  |   8  |   8  |   7  |      6      |  5   |  1   |      | 2. TIENDA DE ELECTRONICA DON ELECTRON     |
-| CMONTERO  |17(10)|  49  |   8  |  10  |  11  |      8      |  12  |      |      | MyVet. Proyecto propio sobre veterinaria  
+| CMONTERO  |17(10)|  49  |   8  |  10  |  11  |      8      |  12  |  8   |      | MyVet. Proyecto propio sobre veterinaria  
 | AMORENO   | 7(10)|  11  |   8  |   6  |   8  |      8      |   8  |      |      | 3. Sistema de reserva y venta de billetes Ferrocarriles Canfranc |
 | DAN       |17(10)|  10  |   7  |   6  |   8  |      6      |      |      |      |Agencia de reservas de casas rurales Teruel existe|
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
