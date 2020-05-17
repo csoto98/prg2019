@@ -29,7 +29,7 @@ Nª Ejercicios	Nota
 | AMORENO   | 7(10)|  11  |   8  |   6  |   8  |      8      |   8  |      |      | 3. Sistema de reserva y venta de billetes Ferrocarriles Canfranc |
 | DAN       |17(10)|  10  |   7  |   6  |   8  |      6      |   6  |  2   |      |Agencia de reservas de casas rurales Teruel existe|
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
-| SARA      | 7(10)|  2   |   4  |      |      |             |   4  |   1  |      |Proyecto personal: Fotografía |
+| SARA      | 7(10)|  2   |   4  |      |      |             |   4  |   2  |      |Proyecto personal: Fotografía |
 | JONATHAN  |14(10)|  11  |   8  |   8  |  8   |      8      |   6  |      |      |9. Sistema de matriculación IES La Dolores  |
 | MARTA     |15(10)|  17  |   8  |   8  |  8   |      8      |   8  |      |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |   2  |      |      |             |      |      |      |   14.Gestión casal fallero   |
