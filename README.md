@@ -42,5 +42,5 @@ Nª Ejercicios	Nota
 | JORGE     | 8(10)|  19  |   7  |   8  |  11   |     6      |   9  |  6    |      |Comunidad de propietarios del edificio Villahermosa      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
 | ROSANA    |13(10)|  23  |   4  |   8  |  10  |     8       |   8  |   5  |      |Proyecto propio: Fem marketing     |
-| DAVIDE    |12(10)|  39  |   7  |   5  |      |             |      |      |      |Proyecto personal: Laboratorio de control de calidad      |
+| DAVIDE    |12(10)|  39  |   7  |   5  |      |             |   4  |      |      |Proyecto personal: Laboratorio de control de calidad      |
 
