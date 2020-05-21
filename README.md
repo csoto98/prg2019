@@ -37,7 +37,7 @@ Nª Ejercicios	Nota
 | DAVID S   |10(10)|  14  |   8  |   8  |   8  |      10     |   8   |  7  |      | 2. Tienda de electrónica Don electrón     |
 | ANGEL     |10(10)|  14  |  10  |   8  |  19  |     12      |   9   |      |      |Proyecto: Control de visitas|
 | MIGUEL    |11(10)|  6   |      |      |      |             |      |      |      |      |
-| CARLOS    |14(10)|  18  |   8  |   8  |  9    |        8      |   7  |      |      | Proyecto personal: Inventario y entrada de Productos  |
+| CARLOS    |14(10)|  18  |   8  |   8  |  9    |        8      |   7  |      |      | Proyecto personal: Inventario y entrada de productos  |
 | MARCO     | 8(10)|  14  |   9  |   8  |  10  |      8      |   9  |   8   |      |    Proyecto personal: Plataforma de podcast  |
 | JORGE     | 8(10)|  19  |   7  |   8  |  11   |     6      |   9  |  6    |      |Comunidad de propietarios del edificio Villahermosa      |
 | JUAN JOSE |      |      |      |      |      |             |      |      |      |      |
