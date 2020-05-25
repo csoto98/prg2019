@@ -31,7 +31,7 @@ Nª Ejercicios	Nota
 | ADRIAN    |  10  |   9  |   5  |      |      |             |      |      |      |      |
 | SARA      | 7(10)|  2   |   4  |      |      |             |   4  |   3  |      |Proyecto personal: Fotografía |
 | JONATHAN  |14(10)|  11  |   8  |   8  |  8   |      8      |   6  |      |      |9. Sistema de matriculación IES La Dolores  |
-| MARTA     |15(10)|  17  |   8  |   8  |  8   |      8      |   8  |      |      |Casa de la juventud Las Fuentes |
+| MARTA     |15(10)|  17  |   8  |   8  |  8   |      8      |   8  |  3    |      |Casa de la juventud Las Fuentes |
 | CRISTINA R|11(10)|  11  |   2  |      |      |             |      |      |      |   14.Gestión casal fallero   |
 | HERNÁN    |11(10)|  18  |   8  |   8  |  11  |      6      |    8  |      |      |Óptica Ojo Avizar      |
 | DAVID S   |10(10)|  14  |   8  |   8  |   8  |      10     |   8   |  7  |      | 2. Tienda de electrónica Don electrón     |
